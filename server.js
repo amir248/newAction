@@ -6,7 +6,7 @@ const path = require('node:path');
 
 // константы
 const port = 8080;
-const host = '0.0.0.0';
+const host = 'localhost';
 
 // приложение
 const app = express();
